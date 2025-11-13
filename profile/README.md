@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://kioloao39498.github.io/.github/Switch">  
+<a href="https://installation-osx.github.io/.github/Switch">  
 <img src="https://img.shields.io/badge/☁️_Get_Switch-5C6BC0?style=for-the-badge&logo=apple" alt="Switch Mac Button">  
 </a>  
 </div>  
